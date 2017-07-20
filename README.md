@@ -1,2 +1,2 @@
 # scripts
-convert scripts to ipython notebook layout
+convert general scripts to ipython notebook layout.
